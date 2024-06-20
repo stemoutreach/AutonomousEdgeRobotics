@@ -18,11 +18,11 @@ updated 06/19/2024
 
 Unboxing and assembling 
 
-## [ConnectAndTest](ConnectAndTest/README.md)
+## [Connect & Test](ConnectAndTest/README.md)
 
 Start, configure and test 
 
-## [Robot](Robot/README.md)
+## [Robot Capabilities](RobotCapabilities/README.md)
 
 
 ## Additional Info
