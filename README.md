@@ -43,7 +43,7 @@ Explore Capabilities
   - [Source](https://github.com/opencv/opencv)
 
 - - - - - - - -  
-## [zPi OS zzimages](zPi-OS-zzimages/README.md)
+## [Pi OS images](zPi-OS-zzimages/README.md)
 
 Setup needed for the Raspberry Pi zzimages for both desktop Raspberry Pi and the robot Raspberry Pi. 
 
