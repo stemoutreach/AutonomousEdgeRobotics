@@ -17,7 +17,7 @@
 
     Launch RealVNC Viewer
    
-     <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/GettingStarted/zzimages/RealVNCViewer.jpg" width="200" > 
+     <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/RealVNCViewer.jpg" width="200" > 
 
     Input XXX.XXX.XXX.XXX to connect
    
