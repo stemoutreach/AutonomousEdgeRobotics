@@ -14,17 +14,17 @@ updated 06/19/2024
 1. Robotics 
 1. OpenCV
 
-## [Assemble](Assemble/README.md)
+## Steps
 
+  ### 1. [Assemble](Assemble/README.md) 
 Unboxing and assembling 
 
-## [Connect & Test](ConnectAndTest/README.md)
+  ### 2. [Connect & Test](ConnectAndTest/README.md)
+Power on, configure and test 
 
-Start, configure and test 
-
-## [Robot Capabilities](RobotCapabilities/README.md)
-
-
+  ### 3. [Robot Capabilities](RobotCapabilities/README.md)
+Explore Capabilities
+    
 ## Additional Info
 - Intro to Python
   - [Learn Python](https://programiz.pro/learn/master-python)
