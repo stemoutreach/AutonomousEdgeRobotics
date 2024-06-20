@@ -7,7 +7,7 @@
 1. Robot Pi is connected to monitor and keyboard
 1. Power is connected and Pi desktop is running
 
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/GettingStarted/zzimages/PiDesktop.jpg" width="500" > 
+<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/PiDesktop.jpg" width="500" > 
 
 ## Steps:
 
