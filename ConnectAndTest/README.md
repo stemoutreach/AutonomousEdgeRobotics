@@ -10,5 +10,5 @@
 
 ### [2. Robot Setup](2-RobotSetup.md)
 
-### [3. ConnectDesktopPitoRobotPi](3-ConnectDesktopPitoRobotPi.md)
+### [3. Connect Desktop Pi to Robot Pi](3-ConnectDesktopPitoRobotPi.md)
 
