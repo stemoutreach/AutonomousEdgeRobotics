@@ -13,7 +13,7 @@
    ssh pi@XXX.XXX.XXX.XXX
    ~~~
    ~~~
-   cd /home/pi/Desktop/JupyterNotebooks/920RobotBasics
+   cd /home/pi/Desktop/JupyterNotebooks
    sudo jupyter notebook --ip='*' --port=8888 --no-browser --allow-root
    ~~~
    Open a browser and connect to http://XXX.XXX.XXX.XXX:8888
