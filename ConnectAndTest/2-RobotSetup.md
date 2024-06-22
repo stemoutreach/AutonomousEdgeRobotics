@@ -17,7 +17,7 @@
    <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/RoobotOnOff.jpg" width="400" > 
 
    
-   1. **change defaul password and hostname**
+1. **change defaul password and hostname**
 
     Open the Configuation tool at **Pi -> Preferences -> Raspberry Pi Configuation** and follow instructions. Make the hostname unique. Maybe use your team name or initials and add robot if you use the same hostname as the desktop pi. 
    
