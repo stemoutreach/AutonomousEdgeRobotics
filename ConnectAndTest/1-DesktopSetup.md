@@ -42,7 +42,7 @@
 1. **Jupyter Lab Connection** 
   
    ~~~
-   cd /home/pi/Desktop
+   cd /home/pi/Desktop/JupyterNotebooks
    jupyter notebook --ip='*' --port=8888 
    ~~~
 
