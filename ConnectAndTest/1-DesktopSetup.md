@@ -7,7 +7,7 @@
 1. Robot Pi is connected to monitor and keyboard
 1. Power is connected and Pi desktop is running
 
-<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/PiConfigPWandHost.jpg" width="500" > 
+<img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/PiDesktop.jpg" width="500" > 
 
 ## Steps:
 
@@ -15,7 +15,7 @@
 
    Open the Configuation tool at **Pi -> Preferences -> Raspberry Pi Configuation** and follow instructions. Make the hostname unique. Maybe use your team name or initials.   
    
-   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/OpenTerminal2.jpg" width="500" > 
+   <img src="https://github.com/stemoutreach/AutonomousEdgeRobotics/blob/main/zzimages/PiConfigPWandHost.jpg" width="500" > 
 
 
 1. **Connect to WiFi**
