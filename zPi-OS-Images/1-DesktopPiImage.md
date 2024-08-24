@@ -57,15 +57,13 @@
     ~~~
     OpenCV version = 4.10.0
 
-1. **Install RealVNC Viewer**
+1. **Install VNC Viewer and Visual Studio Code**
 
-    - Download from https://www.realvnc.com/en/connect/download/combined/
-    - Select ARM64
-    - Download
-    - Extract
-    - run this file VNC-Connect-Installer-2.2.1-Linux-ARM64
+    - from the pi menu, select Preferences/Recomended Software
+    - scroll down and check Visual Studio Code and VNC Viewer
+    - Click Apply
 
- 1. **Install Juptyer Notebook**
+ 1. **Install Juptyer Notebook - optional**
 
   ~~~
   pip3 install jupyter
