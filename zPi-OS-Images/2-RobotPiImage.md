@@ -69,9 +69,10 @@
 
 1. **Visual Studio Code***
 
-  from the pi menu, select Preferences/Recomended Software
-  scroll down and check Visual Studio Code
-  Click Apply
+    - from the pi menu, select Preferences/Recomended Software
+    - scroll down and check Visual Studio Code
+    - Click Apply
+
 
 1. **Add MasterPi and MasterPi_PC_Software folder to /home/pi/**
    
