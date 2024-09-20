@@ -4,22 +4,13 @@
   Use Raspberry Pi Imager to create a fresh Raspberry Pi OS (64-bit) SD card
    - https://www.raspberrypi.com/software/
    - current imager version 1.8.5
-   - current Pi OS Released: 2024-03-15
+   - current Pi OS Released: 2024-07-04
   
-3. **Boot the Raspberry Pi with the new card**
+1. **Boot the Raspberry Pi with the new card**
+   Follow the wizard to configure the image
 
-1. **change defaul password for pi**
-
-   Note: pi default password is raspberry
-
-   run the passwd command in a teminal window and follow instructions
-   
-    ~~~
-    passwd
-    ~~~
-    
 1. **Enable interface:** ssh, vnc and i2c
-
+    You can use GUI - Pi/Preferences/Raspberry Pi Configuration - or CLI use the command beow
     ~~~
     sudo raspi-config
     ~~~
@@ -31,7 +22,7 @@
     sudo apt-get update && sudo apt-get upgrade -y
     ~~~
     
-1. **Remove installed packages that are no longer required**
+1. **Remove installed packages that are no longer required** If needed
 
     ~~~
     sudo apt autoremove -y
@@ -57,7 +48,7 @@
     ~~~
     OpenCV version = 4.10.0
 
-1. **Install Juptyer Notebook**
+1. ** (Optional)Install Juptyer Notebook**
 
     ~~~
     sudo pip3 install jupyter
@@ -75,6 +66,8 @@
     ~~~
 
 1. **Add MasterPi and MasterPi_PC_Software folder to /home/pi/**
+   NOTE: If a username other than pi is used, you will need to create a /home/pi folder to store the MasterPi code.
+   
 
 1. **Add AutonomousEdgeRobotics folder to /home/pi/Desktop/**
 
