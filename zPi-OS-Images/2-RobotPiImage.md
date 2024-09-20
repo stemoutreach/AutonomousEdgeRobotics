@@ -50,7 +50,7 @@
     ~~~
     OpenCV version = 4.10.0
 
-1. ** (Optional)Install Juptyer Notebook**
+1. **(Optional)Install Juptyer Notebook**
 
     ~~~
     sudo pip3 install jupyter
