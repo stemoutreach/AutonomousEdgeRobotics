@@ -67,6 +67,12 @@
     sudo apt-get install python3-pyqt5.qtsql
     ~~~
 
+1. **Visual Studio Code***
+
+  from the pi menu, select Preferences/Recomended Software
+  scroll down and check Visual Studio Code
+  Click Apply
+
 1. **Add MasterPi and MasterPi_PC_Software folder to /home/pi/**
    
    NOTE: If a username other than pi is used, you will need to create a /home/pi folder to store the MasterPi code.
