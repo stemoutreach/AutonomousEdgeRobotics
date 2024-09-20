@@ -7,9 +7,11 @@
    - current Pi OS Released: 2024-07-04
   
 1. **Boot the Raspberry Pi with the new card**
+   
    Follow the wizard to configure the image
 
 1. **Enable interface:** ssh, vnc and i2c
+   
     You can use GUI - Pi/Preferences/Raspberry Pi Configuration - or CLI use the command beow
     ~~~
     sudo raspi-config
