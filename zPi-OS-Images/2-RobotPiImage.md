@@ -68,8 +68,15 @@
     ~~~
 
 1. **Add MasterPi and MasterPi_PC_Software folder to /home/pi/**
-   NOTE: If a username other than pi is used, you will need to create a /home/pi folder to store the MasterPi code.
    
+   NOTE: If a username other than pi is used, you will need to create a /home/pi folder to store the MasterPi code.
+   Example: user name = robot
+   ~~~
+   sudo mkdir /home/pi
+   sudo chown robot:robot /home/pi
+   sudo chmod 755 /home/pi
+   ~~~
+
 
 1. **Add AutonomousEdgeRobotics folder to /home/pi/Desktop/**
 
