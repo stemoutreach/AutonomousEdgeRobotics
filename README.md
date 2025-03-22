@@ -1,6 +1,6 @@
 # Autonomous Edge Robotics
 
-updated 06/19/2024
+updated 03/22/2025
 
 ## [Bill of Materials](BillofMaterials.md)
 
@@ -45,5 +45,5 @@ Explore Capabilities
 - - - - - - - -  
 ## [Pi OS images](zPi-OS-Images/README.md)
 
-Setup needed for the Raspberry Pi zzimages for both desktop Raspberry Pi and the robot Raspberry Pi. 
+Setup needed for the Raspberry Pi for both desktop Raspberry Pi and the robot Raspberry Pi. 
 
